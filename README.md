@@ -1,7 +1,15 @@
 <h2 align="center">Prototype-Guided Graph Reasoning Network for Few-Shot Medical Image Segmentation</h2>
 <h4 align="right">by <a href="https://scholar.google.com/citations?user=q0syMZQAAAAJ&hl=en">Wendong Huang </a>, <a href="https://fhujinwu.github.io/">Jinwu Hu</a>, <a href="https://scholar.google.com/citations?user=5zRSaQcAAAAJ&hl=en&oi=ao">Junhao Xiao</a>, Yang Wei, <a href="https://scholar.google.com/citations?hl=en&user=1Ezgfw8AAAAJ">Xiuli Bi</a>, <a href="https://faculty.cqupt.edu.cn/xiaobin/zh_CN/index.htm">Bin Xiao*</a></h4>
 
-
+<div align="center">
+  <img src="./PGRNet.png"><br><br>
+</div>
+<div align="center">
+  <img src="./compare.png"><br><br>
+</div>
+<div align="center">
+  <img src="./quality.png"><br><br>
+</div>
 
 
 
