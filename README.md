@@ -29,3 +29,7 @@ If you use PGRNet in your research, please cite our IEEE Transactions on Medical
   pages={761-773},
   doi={10.1109/TMI.2024.3459943}}
 ```
+
+## Star History
+
+![Star History Chart](https://api.star-history.com/svg?repos=Fhujinwu/PGRNet&type=Date)
